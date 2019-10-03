@@ -1,4 +1,3 @@
-
 [
 {
 "imagem" : "https://http2.mlstatic.com/onu-epon-v2804cg-41000mbps-kit-c2-preco-esp-p-atacado-D_NQ_NP_887102-MLB25653647870_062017-F.jpg",
@@ -66,7 +65,7 @@
 "descricao" : "CONECTOR SC/APC GREATEK"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "23",
 "descricao" : "CONECTOR SC/APC SEI BRASIL"
 },
@@ -81,7 +80,7 @@
 "descricao" : "CONECTOR SC/UPC GREATEK"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "26",
 "descricao" : "CONECTOR SC/UPC SEI BRASIL"
 },
@@ -116,7 +115,7 @@
 "descricao" : "SUPORTE 82 PAREDE 04 METROS"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "33",
 "descricao" : "PROTETOR SOLAR"
 },
@@ -351,7 +350,7 @@
 "descricao" : "FONTE NOBREAK CCN TELECON 48V 4A"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "81",
 "descricao" : "FONTE NOBREAK JINGDA 24V 16.7A"
 },
@@ -366,7 +365,7 @@
 "descricao" : "FONTE NOBREAK PROTECO MP48/10-R1"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "84",
 "descricao" : "48/5-R2 - RETIFICADORA PROTECO"
 },
@@ -826,7 +825,7 @@
 "descricao" : "GBIC ZTE SM-2kM-1310-2.5G-C 23000200 RTXM192-400 - CLASS 1 LASER"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "308",
 "descricao" : "GBIC ZTE SM-80Km - 1510 - 155M-C - PT7620-31-2V-C51 - CLASS 1 LASER"
 },
@@ -911,7 +910,7 @@
 "descricao" : "FONTE PACPON"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "325",
 "descricao" : "FONTE POE 24V 0,3A"
 },
@@ -1171,7 +1170,7 @@
 "descricao" : "CAIXA DE EMENDA INTERNO E04 FAST WIRELESS"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "379",
 "descricao" : "CAIXA DE EMENDA INTERNO E24 FAST WIRELESS"
 },
@@ -1186,7 +1185,7 @@
 "descricao" : "CAIXA VOLT MODELO 3"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "409",
 "descricao" : "CAMISA SOCIAL MASCULINA MANGA CURTA TAM M COR BRANCA"
 },
@@ -1266,7 +1265,7 @@
 "descricao" : "CTO NAP (7 A 12) FIBRACEM"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "427",
 "descricao" : "CUPULA AZUL"
 },
@@ -1276,7 +1275,7 @@
 "descricao" : "ALICATE DECAPADOR DE FIBRA ÓPTICA L-02"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "429",
 "descricao" : "DECAPADOR HORIZONTAL E VERTICAL"
 },
@@ -1371,7 +1370,7 @@
 "descricao" : "GRAMPO PARA GRAMPEADOR"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "449",
 "descricao" : "IDENTIFICADOR P/ CABO"
 },
@@ -1556,7 +1555,7 @@
 "descricao" : "PROTETOR DE EMENDA FIBRA OPTICA 45 X 3,5 C/ FIO DE 1MM"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "488",
 "descricao" : "QUADRO DE DISTRIBUIÇÃO QDCC PROTECO 48V/200A"
 },
@@ -1688,7 +1687,7 @@
 {
 "imagem" : "https://d365e82sgxmduv.cloudfront.net/Custom/Content/Products/10/77/1077103_luva-emenda-s-r-1-1-4-flexor-tramontina_m1_636271050932488000.jpg",
 "nome" : "516",
-"descricao" : "TUBO COM 2 PARAFUSOS 1.1/4""
+"descricao" : "TUBO COM 2 PARAFUSOS 1.1/4"http://www.pombonet.com.br/img/logo-pombo-net.png"
 },
 {
 "imagem" : "https://www.fg.com.br/arquivos/ids/231570-undefined-undefined/Eletroduto-Galvanizado-Eletrolitico-1X3M-BSP-Parede-106mm-Medio---Zetone---50300024003-10---Zetone.jpg?v=636735929758770000",
@@ -1751,7 +1750,7 @@
 "descricao" : "CABO PARALELO 300V 2 X 1,5 mm2"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "529",
 "descricao" : "CABO U/UTP 24 AWGX4P CAT 5E"
 },
@@ -1776,7 +1775,7 @@
 "descricao" : "CHAVE CANHÃO 8MM"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "534",
 "descricao" : "LAMINA ESTILETE 28MM"
 },
@@ -1951,7 +1950,7 @@
 "descricao" : "BASTIDOR PARA 10 BLOCOS EM INOX"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "572",
 "descricao" : "Ubs_RioAcima_10_mega"
 },
@@ -1976,242 +1975,242 @@
 "descricao" : "PILHA A23 12V"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "594",
 "descricao" : "CAMISA MANGA LONGA TAM P COR HORTENCIA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "595",
 "descricao" : "CAMISA MANGA LONGA TAM M COR HORTENCIA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "596",
 "descricao" : "CAMISA MANGA LONGA TAM GG COR HORTENCIA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "597",
 "descricao" : "CAMISA MANGA LONGA TAM G COR HORTENCIA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "598",
 "descricao" : "CAMISA MANGA CURTA POLO TAM G COR HORTENCIA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "599",
 "descricao" : "CAMISA MANGA CURTA POLO TAM GG COR HORTENCIA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "601",
 "descricao" : "CAMISA MANGA CURTA POLO TAM P COR HORTENCIA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "602",
 "descricao" : "CAMISETA MANGA LONGA TAM G COR VERDE PANTONI"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "606",
 "descricao" : "CAMISETA MANGA LONGA TAM P COR VERDE PANTONI"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "607",
 "descricao" : "CAMISETA MANGA LONGA TAM M COR VERDE PANTONI"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "608",
 "descricao" : "CALÇA ELASTICO 4 BOLSOS TAM GG COR BRIM PETROLEO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "609",
 "descricao" : "CALÇA ELASTICO 4 BOLSO TAM G COR BRIM PETROLEO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "610",
 "descricao" : "CALÇA ELASTICO 4 BOLSOS TAM M COR BRIM PETROLEO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "611",
 "descricao" : "CALÇA ELASTICO 4 BOLSOS TAM P COR BRIM PETROLEO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "612",
 "descricao" : "CALÇA ELASTICO 4 BOLSOS TAM EG COR BRIM PETROLEO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "613",
 "descricao" : "CAMISA POLO TAM M COR VERDFE BANDEIRA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "614",
 "descricao" : "CAMISA POLO TAM G COR VERDE BANDEIRA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "615",
 "descricao" : "CAMISA POLO TAM GG COR VERDE BANDEIRA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "616",
 "descricao" : "CAMISA POLO TAM XGG COR VERDE BANDEIRA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "617",
 "descricao" : "CAMISA POLO TAM PP COR LARANJA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "618",
 "descricao" : "CAMISA POLO TAM P COR LARANJA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "619",
 "descricao" : "CAMISA PLO TAM M COR LARANJA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "620",
 "descricao" : "CAMISA POLO TAM G COR LARANJA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "621",
 "descricao" : "CAMISA POLO TAM GG COR LARANJA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "622",
 "descricao" : "CAMISA POLO TAM EG COR LARANJA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "623",
 "descricao" : "CAMISA POLO TAM P COR VERMELHA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "624",
 "descricao" : "CAMISA POLO TAM M COR VERMELHA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "625",
 "descricao" : "CAMISA POLO TAM G COR VERMELHA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "628",
 "descricao" : "CAMISA POLO TAM PP COR ROXA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "629",
 "descricao" : "CAMISA POLO TAM P COR ROXA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "630",
 "descricao" : "CAMISA POLO TAM M COR ROXA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "632",
 "descricao" : "CAMISA POLO TAM P COR AMARELA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "633",
 "descricao" : "CAMISA POLO TAM G COR AMARELA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "635",
 "descricao" : "APAGAR PRODUTO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "636",
 "descricao" : "CAMISA SOCIAL MASCULINA MANGA LONGA TAM G COR BRANCA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "665",
 "descricao" : "CAMISA SOCIAL FEMININA MANGA LONGA TAM PP COR BRANCA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "667",
 "descricao" : "CAMISA MANGA CURTA FEMININA TAM 40 COR BRANCA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "668",
 "descricao" : "CAMISA SOCIAL FEMININA MANGA LONGA TAM P COR BRANCA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "669",
 "descricao" : "BATA FEMININA TAM P COR BRANCA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "670",
 "descricao" : "BATA FEMININA TAM M COR BRANCA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "671",
 "descricao" : "BATA FEMININA TAM G COR BRANCA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "672",
 "descricao" : "CAMISA POLO TAM PP COR JUMBO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "674",
 "descricao" : "CAMISA POLO TAM PP COR LARANJA E BRANCO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "675",
 "descricao" : "CAMISA POLO TAM P COR LARANJA E BRANCO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "676",
 "descricao" : "CAMISA POLO TAM G COR LARANJA E BRANCO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "678",
 "descricao" : "CAMISA POLO TAM GG COR LARANJA E BRANCO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "679",
 "descricao" : "CAMISA POLO TAM M COR LARANJA E BRANCO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "680",
 "descricao" : "VESTIDO TUBINHO TAM 42 COR PRETO"
 },
@@ -2231,77 +2230,77 @@
 "descricao" : "REPETIDOR WIFI TL-WA855RE"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "685",
 "descricao" : "CALÇA SOCIAL MASCULINA TAM P COR PRETO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "686",
 "descricao" : "CALÇA SOCIAL MASCULINA TAM M COR PRETO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "687",
 "descricao" : "CALÇA SOCIAL MASCULINA TAM G COR PRETO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "688",
 "descricao" : "CALÇA SOCIAL MASCULINA TAM GG COR PRETO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "689",
 "descricao" : "CALÇA SOCIAL FEMININA TAM P COR PRETO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "692",
 "descricao" : "CALÇA SOCIAL FEMININA TAM M COR PRETO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "693",
 "descricao" : "CALÇA SOCIAL FEMININA TAM G COR PRETO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "694",
 "descricao" : "CALÇA SOCILA FEMININA TAM GG COR PRETO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "696",
 "descricao" : "CALÇA SOCIAL FEMININA TAM GG COR PRETO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "697",
 "descricao" : "JAQUETA MASCULINA TAM P COR PRETO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "700",
 "descricao" : "JAQUETA MASCULINA TAM XG2 COR PRETO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "701",
 "descricao" : "JAQUETA FEMININA TAM P COR PRETO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "702",
 "descricao" : "JAQUETA FEMININA TAM G COR PRETA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "703",
 "descricao" : "JAQUETA FEMININA TAM GG COR PRETA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "706",
 "descricao" : "CAMISETA MANGA LONGA TAM EG COR VERDE PANTONI"
 },
@@ -2321,32 +2320,32 @@
 "descricao" : "BOBINA TÉRMICA 57X18 P/ MAQUINA DE CARTÃO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "710",
 "descricao" : "GBIC SFP+ 10G LRM 1310nm 220m DUPLEX"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "711",
 "descricao" : "GBIC SFP+ 10G T1270/R1330nm 10KM BIDI S+23LC10D SM (PAR PRETO)"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "712",
 "descricao" : "GBIC S+32LC10D 10G Tx1330/Rx1270nm 10Km BIDI SFP+"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "713",
 "descricao" : "CAMISA MANGA LONGA TAM G COR AZUL MARINHO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "714",
 "descricao" : "CAMISA MANGA LONGA TAM GG COR AZUL MARINHO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "717",
 "descricao" : "CONVERSOR DE MEDIA TP-LINK MC200CM GIGABIT MULTI-MODO"
 },
@@ -2356,12 +2355,12 @@
 "descricao" : "ROTEADOR D-LINK DIR-825 AC 1200MBPS DUAL BAND WI-FI GIGABIT"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "719",
 "descricao" : "PRATO PARA LITEBEAM M5 5GHZ"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "720",
 "descricao" : "GBIC MIKROTIK S-RJ01 - SFP to RJ45 10/100/1G ETHERNET"
 },
@@ -2371,17 +2370,17 @@
 "descricao" : "ROTEADOR TP-LINK TL-WR720N 150 MBPS"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "725",
 "descricao" : "MODULO SFP+ 10G SR 850nm 300m 10G SFP+"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "726",
 "descricao" : "DIO 12 PORTAS"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "727",
 "descricao" : "ANTENA POWERBEAM 300 5GHZ 22DBI"
 },
@@ -2401,7 +2400,7 @@
 "descricao" : "Pen Drive Kingston DataTraveler USB 3.0 16GB - DT100G3/16GB"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "731",
 "descricao" : "FONTE NOBREAK PROTECO MP24/10-R2"
 },
@@ -2418,7 +2417,7 @@
 {
 "imagem" : "https://cdn.awsli.com.br/600x700/489/489427/produto/30894127/6b77846b1d.jpg",
 "nome" : "735",
-"descricao" : "PASTA PARA NOTEBOOK 10""
+"descricao" : "PASTA PARA NOTEBOOK 10"http://www.pombonet.com.br/img/logo-pombo-net.png"
 },
 {
 "imagem" : "https://lojamultilaser.vteximg.com.br/arquivos/ids/155894-1000-1000/AC021_1.jpg?v=635827425893330000",
@@ -2426,7 +2425,7 @@
 "descricao" : "MOUSE PAD"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "737",
 "descricao" : "JAQUETA MASCULINA TAM M COR PRETO"
 },
@@ -2446,12 +2445,12 @@
 "descricao" : "FRASCO PET 30ML C/ VÁLVULA SPRAY"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "742",
 "descricao" : "CAMISA POLO TAM M COR LARANJA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "743",
 "descricao" : "CAMISA MANGA CURTA TAM G ROXA"
 },
@@ -2466,47 +2465,47 @@
 "descricao" : "HD Desktop WD 160GB Sata 3 7200RPM"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "746",
 "descricao" : "CAMISA POLO TAM P COR VERDE BANDEIRA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "747",
 "descricao" : "CAMISA POLO TAM M COR VERDE BANDEIRA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "748",
 "descricao" : "CAMISA SOCIAL FEMININA MANGA LONGA TAM M COR BRANCA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "749",
 "descricao" : "CAMISA SOCIAL MANGA CURTA FEMININA TAM P COR BRANCA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "750",
 "descricao" : "CAMISA SOCIAL MANGA CURTA FEMININA TAM M COR BRANCA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "751",
 "descricao" : "CALÇA SOCIAL FEMININA TAM PP COR PRETO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "752",
 "descricao" : "CAMISA POLO TAM P COR JUMBO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "753",
 "descricao" : "CAMISA POLO TAM G COR ROXA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "754",
 "descricao" : "VESTIDO TUBINHO TAM PP COR PRETO"
 },
@@ -2551,7 +2550,7 @@
 "descricao" : "CX P/ QUADRO DE COMANDO 300x300x200"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "767",
 "descricao" : "CABO F/UTP CAT.5E 24AWGXP+1PX0,75MM2 PT"
 },
@@ -2701,12 +2700,12 @@
 "descricao" : "SUPORTE PARA FITA ADESIVA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "797",
 "descricao" : "CAMISA POLO TAM M COR JUMBO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "799",
 "descricao" : "CARTAO DE PONTO"
 },
@@ -2776,17 +2775,17 @@
 "descricao" : "ALÇA PRÉ FORMADA 8mm a 8,6mm"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "813",
 "descricao" : "TERMINAL PRÉ-ISOLADO TUBULAR TIPO ILHÓS SIMPLES E5020"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "814",
 "descricao" : "TERMINAL PRÉ-ISOLADO TUBULAR TIPO ILHÓS SIMPLES E6012"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "815",
 "descricao" : "GABARITO GREATEK"
 },
@@ -2826,32 +2825,32 @@
 "descricao" : "DIO - DISTRIBUIDOR INTERNO OPTICO - 36F"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "824",
 "descricao" : "CAMISA SOCIAL MANGA LONGA FEMININA PP"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "825",
 "descricao" : "CAMISA SOCIAL MANGA LONGA FEMININA P"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "826",
 "descricao" : "CAMISA SOCIAL MANGA LONGA FEMININA M"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "827",
 "descricao" : "CAMISA SOCIAL MANGA LONGA FEMININA G"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "828",
 "descricao" : "CAMISA MANGA LONGA TAM P COR AZUL MARINHO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "829",
 "descricao" : "CAMISA MANGA LONGA TAM M COR AZUL MARINHO"
 },
@@ -2891,7 +2890,7 @@
 "descricao" : "DESIMCRIPANTE"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "840",
 "descricao" : "POST-IT"
 },
@@ -2936,7 +2935,7 @@
 "descricao" : "BENJAMIN 3 SAÍDAS"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "853",
 "descricao" : "PRODUTO SEM CADASTRO - PEDIDO DE COMPRA"
 },
@@ -2956,27 +2955,27 @@
 "descricao" : "EPSON L4150 - ECO TANQUE 504 (PRETO)"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "857",
 "descricao" : "EPSON L450 - ECO TANQUE 504 (AMARELO)"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "858",
 "descricao" : "EPSON L450 - ECO TANQUE 504 (CYAN)"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "859",
 "descricao" : "EPSON L450 - ECO TANQUE 504 (MAGENTA)"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "860",
 "descricao" : "CABO EPR FLEX 2 X 1,5MM PT"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "861",
 "descricao" : "MP 24/10-R2 - RETIFICADORA PROTECO"
 },
@@ -2986,7 +2985,7 @@
 "descricao" : "ELETRODO P/ MÁQUINA DE FUSÃO ORIENTEK T40 (PAR)"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "864",
 "descricao" : "ELETRODO P/ MÁQUINA DE FUSÃO FUJIKURA 70S (PAR)"
 },
@@ -3051,7 +3050,7 @@
 "descricao" : "SACO DE RÁFIA 65x90"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "877",
 "descricao" : "BATERIA ESTACIONÁRIA FREEDOM DF2000 - 115AH"
 },
@@ -3136,12 +3135,12 @@
 "descricao" : "ADAPTADOR ANALOG. P TEL. VOIP - ATA GKM 2210T 2 CANAIS"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "896",
 "descricao" : "ADESIVO - MODELO 12"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "897",
 "descricao" : "ADESIVO - NUMERICO"
 },
@@ -3156,7 +3155,7 @@
 "descricao" : "CINTA DE BORRACHA P/ ESCADA EXTENSÍVEL DE FIBRA DE VIDRO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "900",
 "descricao" : "FRETE"
 },
@@ -3191,12 +3190,12 @@
 "descricao" : "SACO PLASTICO TRANSPARENTE 25x35"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "907",
 "descricao" : "FLYER 150x210MM COLORIDO FRENTE E VERSO - PAPEL COUCHÊ 150G"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "908",
 "descricao" : "CAPA PARA CARNÊ 90x420MM C/ CORTE ESPECIAL"
 },
@@ -3206,12 +3205,12 @@
 "descricao" : "CAIXA PLÁSTICA HORTIFRUTI - PRETA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "910",
 "descricao" : "NOBREAK SMS LEGRAND SINUS TRIAD 10KVA/8KVW"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "911",
 "descricao" : "MODULO DE BATERIAS EXTERNO 240VCC SMS LEGRAND 3U"
 },
@@ -3236,7 +3235,7 @@
 "descricao" : "FITA ROTULADOR DYMO LETRATAG PLÁSTICA AMARELA 12MM x 4M"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "918",
 "descricao" : "LUVA PU PRETA M KALIPSO"
 },
@@ -3251,27 +3250,27 @@
 "descricao" : "BOM AR AEROSOL 400 ML"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "921",
 "descricao" : "FO.-CABO DROP FTTH 1 FIBRA FASTWIRELESS CFOAC-BLI A/B-CM-01-AR-LSZH"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "923",
 "descricao" : "RETIFICADOR 48V 1000W 20A 110/220V 2x1U - EMERSON"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "924",
 "descricao" : "MANGUITO - MANGA DE PROTEÇÃO SOLAR P/ BRAÇOS"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "927",
 "descricao" : "ADESIVO - MODELO 01"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "928",
 "descricao" : "CAPA DE CHUVA ALBA EUROPA PVC - TAMANHO GG"
 },
@@ -3301,12 +3300,12 @@
 "descricao" : "CAIXA ORGANIZADORA RETANGULAR PEQUENA C/ 9 DIVISÓRIAS"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "934",
 "descricao" : "NOBREAK SMS LEGRAND SINUS TRIAD 10KVA/8KW E/S 220V"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "935",
 "descricao" : "GABINETE COM 20 BATERIAS 9AH"
 },
@@ -3351,7 +3350,7 @@
 "descricao" : "PLUG FÊMEA 2P+T 20A"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "945",
 "descricao" : "PATCH CORD SC/UPC SM SX 1M Pigtail"
 },
@@ -3361,12 +3360,12 @@
 "descricao" : "SPLITTER 1x4 SM SC/UPC"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "947",
 "descricao" : "PLACA OLT HUAWEI GPHF 16 GPON C+ (MA5800)"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "948",
 "descricao" : "FONTE 24V 0.8A - POWER SUPPLY (MIKROTIK)"
 },
@@ -3381,7 +3380,7 @@
 "descricao" : "OPTILOOP CINZA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "951",
 "descricao" : "KIT INSTALAÇÃO OPTILOOP"
 },
@@ -3471,57 +3470,57 @@
 "descricao" : "CLIVADOR FC-6S"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "969",
 "descricao" : "CAMISA SOCIAL MASCULINA MANGA LONGA TAM P COR BRANCA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "970",
 "descricao" : "CAMISA SOCIAL MASCULINA MANGA LONGA TAM M COR BRANCA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "971",
 "descricao" : "CAMISA SOCIAL MASCULINA MANGA LONGA TAM GG COR BRANCA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "972",
 "descricao" : "CAMISA SOCIAL MASCULINA MANGA LONGA TAM EXG COR BRANCA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "973",
 "descricao" : "CAMISA SOCIAL MASCULINA MANGA CURTA TAM P COR BRANCA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "974",
 "descricao" : "CAMISA SOCIAL MASCULINA MANGA CURTA TAM G COR BRANCA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "975",
 "descricao" : "CAMISA SOCIAL MASCULINA MANGA CURTA TAM GG COR BRANCA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "976",
 "descricao" : "CAMISA SOCIAL MASCULINA MANGA CURTA TAM EXG COR BRANCA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "977",
 "descricao" : "CAMISA SOCIAL FEMININA MANGA LONGA TAM G COR BRANCA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "978",
 "descricao" : "CAMISA SOCIAL FEMININA MANGA LONGA TAM GG COR BRANCA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "979",
 "descricao" : "FONTE 12V 0.5A"
 },
@@ -3536,12 +3535,12 @@
 "descricao" : "BLOCO ADESIVO POST-IT 3M 38X50mm AMARELO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "982",
 "descricao" : "PATCH CORD SM SC/APC - LC/UPC"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "983",
 "descricao" : "CABO DE COM 2 X 1,5MM C"
 },
@@ -3561,42 +3560,42 @@
 "descricao" : "CLEANER PEN 2.5MM FC/ST/SC (CANETA P/ LIMPEZA)"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "987",
 "descricao" : "PATCH CORD LC-UPC LC-UPC SINGLE MODE DUPLEX 5 METROS"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "990",
 "descricao" : "BOTINA C/ BICO DE PVC TAM 38"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "991",
 "descricao" : "BOTINA C/ BICO DE PVC TAM 39"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "992",
 "descricao" : "BOTINA C/ BICO DE PVC TAM 40"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "993",
 "descricao" : "BOTINA C/ BICO DE PVC TAM 41"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "994",
 "descricao" : "BOTINA C/ BICO DE PVC TAM 42"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "995",
 "descricao" : "CAMISA MANGA LONGA SOCIAL MASCULINA IBISA TAM G COR NOITE"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "996",
 "descricao" : "CAMISA MANGA LONGA SOCIAL MASCULINA IBISA TAM GG COR NOITE"
 },
@@ -3616,42 +3615,42 @@
 "descricao" : "ESCADA DE ALUMINIO 3 DEGRAUS - MOR-005101"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1001",
 "descricao" : "SPLITTER DESBALANCEADO 1X2 01/99% SEM CONECTOR"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1004",
 "descricao" : "FONTE NOBREAK PROTECO MP48/5-R2"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1005",
 "descricao" : "FONTE NOBREAK V/A 24V7A 27,6A2A"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1006",
 "descricao" : "FONTE NOBREAK V/A 55,2V2 2,5A"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1007",
 "descricao" : "BOTINA C/ BICO DE PVC TAM 43"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1008",
 "descricao" : "CABO OPTICO CFOA-SM-AS80 MINI-RA 12F NR"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1009",
 "descricao" : "CABO OPTICO CFOA-SM-AS80 MINI-RA 02F NR"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1010",
 "descricao" : "FONTE 12V 1.5A"
 },
@@ -3661,7 +3660,7 @@
 "descricao" : "MULTÍMETRO - MINIPA ET-1002"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1012",
 "descricao" : "OLT HUAWEI 11U 19" MA5800-X15 10G 16GPON GPHF 2PILA 2MPLA"
 },
@@ -3671,17 +3670,17 @@
 "descricao" : "SACO P LIXO 110 LTS C 100 BL REFORCADO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1026",
 "descricao" : "PATCH CORD U/UTP GIGALAN CAT.6 - CM - T568A/B - 5.0M - AZUL"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1027",
 "descricao" : "FONTE 12V 1A"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1028",
 "descricao" : "HEADSET HTU-310 UBS VOIP MONO"
 },
@@ -3706,7 +3705,7 @@
 "descricao" : "EPSON MULTIFUNCIONAL L4150 ECOTANK"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1033",
 "descricao" : "ALÇA PRÉ-FORMADA 6,8mm A 7,4mm"
 },
@@ -3736,7 +3735,7 @@
 "descricao" : "CHAVEIRO COM IDENTIFICADOR"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1039",
 "descricao" : "ADESIVO - MODELO 08"
 },
@@ -3751,17 +3750,17 @@
 "descricao" : "CATRACA DE ALUMINIO (PAR)"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1042",
 "descricao" : "OLT PLACA GCOB GPON FIBERHOME 5516-010-OLT 16 PON C+"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1043",
 "descricao" : "OLT PLACA GCOB GPON FIBERHOME 5516-010-OLT 16 PON C++"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1044",
 "descricao" : "MIKROTIK-ROUTERBOARD RB 1100X4 (1100AHX4)L6"
 },
@@ -3771,12 +3770,12 @@
 "descricao" : "PNEU 175/70/R13 82T"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1047",
 "descricao" : "BATERIA - CRAL CL45VD/E"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1048",
 "descricao" : "BATERIA - SBO60D/E"
 },
@@ -3801,17 +3800,17 @@
 "descricao" : "GELADEIRA"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1053",
 "descricao" : "CONECTOR SC/APC D-01 SIPIBSFIBER"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1054",
 "descricao" : "ADESIVO - MODELO 11"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1055",
 "descricao" : "CAMISA SOCIAL MASCULINA MANGA LONGA TAM G COR AZUL MARINHO"
 },
@@ -3821,22 +3820,22 @@
 "descricao" : "FITA TEFLON P/ SELADORA 40MM C/ ADESIVO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1057",
 "descricao" : "MODULO MICROTIK S+85DLC03D 10G DDM SFP+300M 850NM"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1058",
 "descricao" : "MODULO SFP+ 10G LR 1310NM 10KM 10G SFP+"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1059",
 "descricao" : "MODULO SGE10-D0C SFP 1.25G 1310NM 10KM DDM"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1060",
 "descricao" : "MODULO SFP-1.25G-SM-31-15KM"
 },
@@ -3861,7 +3860,7 @@
 "descricao" : "MEMORIA KINGSTON 8GB 1600MHZ DDR3 SDRAM KVR16L"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1066",
 "descricao" : "COPO ISOPOR TERMICO 100 ML - ANTIGO (NÃO USAR)"
 },
@@ -3876,7 +3875,7 @@
 "descricao" : "GERADOR DE ENERGIA A DIESEL SILENCIADO 6.8 KVA TRIFASICO 110/220V PARTIDA ELETRICA - ND7100ES3"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1069",
 "descricao" : "QTA NACIONAL PARA GERADORES ATE 12KVA"
 },
@@ -3886,12 +3885,12 @@
 "descricao" : "OLEO ANTICORROSIVO AEROSOL"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1071",
 "descricao" : "BATERIA P/ NOTEBOOK HP PN CC09 4400MAH PRETO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1072",
 "descricao" : "CABO OPTICO DROP COMPACTO METALICO FIG8 CONVENCIONAL BLI A/B - PROELETRONIC"
 },
@@ -3906,7 +3905,7 @@
 "descricao" : "PATCH CORD U/UTP GIGALAN CAT.6 - CM - T568A/B - 5.0M - VERMELHO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1075",
 "descricao" : "AR CONDICIONADO INDUSTRIAL MONOBLOCO 3500 BTU 1000W MODELO DCSAD-2"
 },
@@ -3931,19 +3930,19 @@
 "descricao" : "CADERNO ESPIRAL"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1080",
 "descricao" : "ADESIVO - LETRA A"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1081",
 "descricao" : "ADESIVO - LETRA B"
 },
 {
 "imagem" : "https://www.palaciodasferramentas.com.br/uploads/produtos/full/46428554-2016-9-15-33-12.jpg",
 "nome" : "1082",
-"descricao" : "TESOURA VERGALHAO 18""
+"descricao" : "TESOURA VERGALHAO 18"http://www.pombonet.com.br/img/logo-pombo-net.png"
 },
 {
 "imagem" : "https://www.isalogcarrinhos.com.br/images/produtos/caixas-plasticas/caixa-organizadora-gaveteiro-bin.jpg",
@@ -3971,7 +3970,7 @@
 "descricao" : "BALDE PLASTICO 15 LITROS"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1089",
 "descricao" : "TAPETE CAPACHO"
 },
@@ -3981,17 +3980,17 @@
 "descricao" : "ADESIVO INSTANTANEO FLEX GEL 2GR SUPER BONDER LOCTITE"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1091",
 "descricao" : "CAMISA POLO TAM GG COR JUMBO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1092",
 "descricao" : "JOGO IMA POMBONET"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1094",
 "descricao" : "BATERIA DE CELULAR LG K4"
 },
@@ -4071,12 +4070,12 @@
 "descricao" : "CLIPS Nº 0 (1/0) GALVANIZADO"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1111",
 "descricao" : "CAPA CELULAR TPU - MOTOROLA G5S"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1112",
 "descricao" : "PELICULA DE VIDRO P/ CELULAR - MOTOROLA G5S"
 },
@@ -4111,7 +4110,7 @@
 "descricao" : "BARRA NEUTRO/TERRA 8 TERMINAIS 140.0MM"
 },
 {
-"imagem" : "",
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
 "nome" : "1120",
 "descricao" : "CABO EPR FLEX 90G 3 x 2,5mm 1KV"
 },
