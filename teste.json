@@ -15,29 +15,109 @@
 "descricao" : " ONU FIBERHOME GPON 1 PORTA "
 },
 {
-"imagem" : "http://d26lpennugtm8s.cloudfront.net/stores/684/302/products/15734108265a146a6ccef44-9c7270a10620942cc415112874063311-1024-1024-bbc220d599244dcce615283061414070-640-0.png",
-"nome" : "50",
-"descricao" : "PARAFUSO PR 60"
+"imagem" : "http://www.gpj.com.br/content/images/thumbs/0030983_modem-roteador-wirelles-fiberhome-an5506-04-oem_600.jpeg ",
+" nome " : " 13 ",
+" descricao " : " ONU FIBERHOME GPON AN5506-04"
 },
 {
-"imagem" : "http://images.tcdn.com.br/img/img_prod/558567/parafuso_pr_90_490_1_20180320114111.jpg",
-"nome" : "51",
-"descricao" : "PARAFUSO PR 90"
+"imagem" : "https://http2.mlstatic.com/3688-onu-gpon-an5506-09-a3a-mdu-fiberhome-D_NQ_NP_986325-MLB26099395593_092017-F.jpg",
+" nome " : " 14 ",
+" descricao " : " ONU FIBERHOME GPON AN5506-09 A3A MDU"
 },
 {
-"imagem" : "http://www.dpr.com.br/upload/catalogo/%7BFFA4116C-FABA-4748-9D5A-30CAD588DCF7%7D_Ponto%20de%20Termina%C3%A7%C3%A3o%20%C3%93ptica_ft.png",
-"nome" : "52",
-"descricao" : "ROSETA OPTICA - PTO"
+"imagem" : "https://awstatic-5754.kxcdn.com/HljIU0IRL6pYIEkfNYZf2R56e0M=/0x0/loja/lojaespacodigital1.com.br/prodimg/76/0550881001508430694.jpg",
+" nome " : " 15 ",
+" descricao " : " ROTEADOR TP-LINK 300MBPS TL-WR849N"
 },
 {
-"imagem" : "http://www.netflexweb.com/sistema/v7/upload/alpa/29052013-1-1283738992.jpg",
-"nome" : "53",
-"descricao" : "ANEL GUIA C/ BASE Nº1"
+"imagem" : "https://recargasdovale.com.br/wp-content/uploads/2016/07/TD-W8951NDUN6.0-03.jpg",
+" nome " : " 16 ",
+" descricao " : " Modem Router TP-LINK 150Mbps Wireless N ADSL2+"
 },
 {
-"imagem" : "https://http2.mlstatic.com/anel-guia-rosca-n0125mmags-1kit-c10pecas-D_NQ_NP_984533-MLB26595766039_012018-O.jpg",
-"nome" : "54",
-"descricao" : "ANEL GUIA C/ ROSCA Nº1"
+"imagem" : "https://awstatic-5754.kxcdn.com/6Nh0PcgQfpKcuZ0FvgsMJ_65cZg=/0x0/loja/labscomputer.com.br/prodimg/74/0739909001528377291.jpg",
+" nome " : " 17 ",
+" descricao " : " MODEM ROUTER VDSL"
+},
+{
+"imagem" : "https://http2.mlstatic.com/caixa-de-emenda-optica-termocontratil-etk-D_NQ_NP_117515-MLB25256448901_012017-F.jpg",
+" nome " : " 18 ",
+" descricao " : " CAIXA OPTICA SOFS 24FO ETK - PRETA"
+},
+{
+"imagem" : "https://www.fibracem.com/wp-content/uploads/2015/12/1000x1000-6-3.png",
+" nome " : " 19 ",
+" descricao " : " CEO CAIXA EMENDA OPT 24F FIBRACEM"
+},
+{
+"imagem" : "https://www.conectwi.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/5/5/552.jpg",
+" nome " : " 20 ",
+" descricao " : " CEO MINI CAIXA EMENDA OPT 12F FIBRACEM"
+},
+{
+"imagem" : "https://http2.mlstatic.com/10-x-fast-conector-optico-de-campo-ftth-sc-apc-verde-nfe-D_NQ_NP_794882-MLB29758193009_032019-Q.jpg",
+" nome " : " 21 ",
+" descricao " : " CONECTOR SC/APC DPR"
+},
+{
+"imagem" : "http://greatek.com.br/wp-content/uploads/2017/10/CNSCAPC02-2.jpg",
+" nome " : " 22 ",
+" descricao " : " CONECTOR SC/APC GREATEK"
+},
+{
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
+" nome " : " 23 ",
+" descricao " : " CONECTOR SC/APC SEI BRASIL"
+},
+{
+"imagem" : "http://dpr.com.br/upload/catalogo/%7BDFD95EB9-F8AB-4812-8713-1213AE395B03%7D_SITE_ft.png",
+" nome " : " 24 ",
+" descricao " : " CONECTOR SC/UPC DPR"
+},
+{
+"imagem" : "https://images.tcdn.com.br/img/img_prod/611257/kit_20_conector_de_campo_tipo_fast_sc_upc_6060037_1_20181001162846.jpg",
+" nome " : " 25 ",
+" descricao " : " CONECTOR SC/UPC GREATEK"
+},
+{
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
+" nome " : " 26 ",
+" descricao " : " CONECTOR SC/UPC SEI BRASIL"
+},
+{
+"imagem" : "https://static2.tme.eu/products_pics/c/b/6/cb6b9277c62a443c98b9027b60c75d09/491723.jpg",
+" nome " : " 27 ",
+" descricao " : " CONECTOR MACHO P/ CABO C2FCP"
+},
+{
+"imagem" : "https://www.casasbahia-imagens.com.br/TelefoneseCelulares/TelefoniaFixa/voIp/7688885/1093497359/telefone-ip-intelbras-tip-125-ip-voip-conta-sip-20-display-viva-voz-intelbras-tip125-7688885.jpg",
+" nome " : " 28 ",
+" descricao " : " TELEFONE IP TIP 125 POE INTELBRAS"
+},
+{
+"imagem" : "https://cdn.leroymerlin.com.br/products/suporte_para_antena_simples_3_4_femasi_88267263_0001_600x600.jpg",
+" nome " : " 29 ",
+" descricao " : " SUPORTE 07 Metros"
+},
+{
+"imagem" : "https://static3.tcdn.com.br/img/img_prod/646104/suporte_para_antena_10_b_para_telha_brasilit_32_mm_para_tubo_1_polegada_13245_1_20180911032750.jpg",
+" nome " : " 30 ",
+" descricao " : " SUPORTE 120 BRASILIT"
+},
+{
+"imagem" : "https://www.eletronicacastro.com.br/11509-thickbox_default/suporte-de-cano-para-antena-externa-1.jpg",
+" nome " : " 31 ",
+" descricao " : " SUPORTE 23F3 TELHA DE BARRO"
+},
+{
+"imagem" : "https://http2.mlstatic.com/suporte-de-antena-parede-cavalete-tubo-34-medio-81m-D_NQ_NP_668040-MLB27792679294_072018-Q.jpg",
+" nome " : " 32 ",
+" descricao " : " SUPORTE 82 PAREDE 04 METROS"
+},
+{
+"imagem" : "http://www.pombonet.com.br/img/logo-pombo-net.png",
+" nome " : " 33 ",
+" descricao " : " PROTETOR SOLAR"
 },
 {
 "imagem" : "https://image.made-in-china.com/202f0j00QOCaTrtPILcB/LC-PC-LC-Upc-LC-APC-Simplex-Duplex-Singlemode-Multimode-Fiber-Optic-Patch-Cord.jpg",
