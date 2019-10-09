@@ -134,6 +134,20 @@
     "data": "23/09/2019"
   },
   {
+    "responsavel": "ALISSON",
+    "destino": "PNT JAPONES",
+    "item1": "ONU HUAWEI HS8546V5 - QTD = 1",	
+    "data": "26/07/2019"
+  }
+  {
+    "responsavel": "MAYCON",
+    "destino": "TECNICO",
+    "item1": "NOTEBOOK PROBOOK 6460B HP - QTD = 1",
+	"item2": "FONTE N17908 - QTD = 1",
+	"item3": "CAPA PARA NOTEBOOK 15,6* - QTD = 1",	
+    "data": "05/08/2019"
+  }
+  {
     "responsavel": "padrao",
     "destino": "padrao",
     "item1": "padrao - QTD = 0",
@@ -144,6 +158,33 @@
 	"item6": "padrao - QTD = 0",
 	"item7": "padrao - QTD = 0",
 	"item8": "padrao - QTD = 0",	
+    "data": "padrao"
+  }
+  {
+    "responsavel": "padrao",
+    "destino": "padrao",
+    "item1": "padrao - QTD = 0",
+	"item2": "padrao - QTD = 0",
+	"item3": "padrao - QTD = 0",
+	"item4": "padrao - QTD = 0",
+	"item5": "padrao - QTD = 0",
+	"item6": "padrao - QTD = 0",
+	"item7": "padrao - QTD = 0",
+	"item8": "padrao - QTD = 0",	
+    "data": "padrao"
+  }
+  {
+    "responsavel": "padrao",
+    "destino": "padrao",
+    "item1": "padrao - QTD = 0",
+	"item2": "padrao - QTD = 0",
+	"item3": "padrao - QTD = 0",
+	"item4": "padrao - QTD = 0",
+	"item5": "padrao - QTD = 0",
+	"item6": "padrao - QTD = 0",
+	"item7": "padrao - QTD = 0",
+	"item8": "padrao - QTD = 0",
+	"item9": "padrao - QTD = 0",	
     "data": "padrao"
   }
 ]
