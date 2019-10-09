@@ -264,7 +264,7 @@
 	"item8": "",
 	"item9": "",	
     "data": "26/07/2019"
-  }
+  },
   {
     "responsavel": "MAYCON",
     "destino": "TECNICO",
@@ -278,7 +278,7 @@
 	"item8": "",
 	"item9": "",
     "data": "05/08/2019"
-  }
+  },
   {
     "responsavel": "WEMBLEY",
     "destino": "-",
@@ -292,7 +292,7 @@
 	"item8": "",
 	"item9": "",	
     "data": "padrao"
-  }
+  },
   {
     "responsavel": "padrao",
     "destino": "padrao",
@@ -306,19 +306,19 @@
 	"item8": "",
 	"item9": "",	
     "data": "padrao"
-  }
+  },
   {
-    "responsavel": "padrao",
-    "destino": "padrao",
-    "item1": "padrao - QTD = 0",
-	"item2": "padrao - QTD = 0",
-	"item3": "padrao - QTD = 0",
-	"item4": "padrao - QTD = 0",
-	"item5": "padrao - QTD = 0",
-	"item6": "padrao - QTD = 0",
-	"item7": "padrao - QTD = 0",
-	"item8": "padrao - QTD = 0",
-	"item9": "padrao - QTD = 0",	
-    "data": "padrao"
+    "responsavel": "",
+    "destino": "",
+    "item1": "",
+	"item2": "",
+	"item3": "",
+	"item4": "",
+	"item5": "",
+	"item6": "",
+	"item7": "",
+	"item8": "",
+	"item9": "",	
+    "data": ""
   }
 ]
